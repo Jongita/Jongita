@@ -1,7 +1,5 @@
 ## Hi, I'm Jurgita 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning front-end and back-end web development technologies
 -  🔭 I’m currently a participant of the WOMEN GO TECH program
 - 👯 I’m looking to collaborate on open-source projects
