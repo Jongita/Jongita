@@ -7,4 +7,7 @@
 - 📫 You can reach me: linkedin.com/in/jurgita-jonaityte-7b913798
 - ⚡ Fun fact: ...
 
+## 🚀 Skills
+#JavaScript 🚀 #TypeScript ⚛#Angular #VisualStudio #VisualStudioCode 🔍 #RESTAPIs #ProblemSolving 🤔 #CommunicationSkills 💬
+
 https://jongita.github.io/CV/
