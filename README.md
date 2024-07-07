@@ -7,3 +7,4 @@
 - 📫 You can reach me: linkedin.com/in/jurgita-jonaityte-7b913798
 - ⚡ Fun fact: ...
 
+https://jongita.github.io/CV/
