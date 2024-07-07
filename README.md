@@ -8,6 +8,7 @@
 - ⚡ Fun fact: ...
 
 ## 🚀 Skills
-#JavaScript 🚀 #TypeScript ⚛#Angular #VisualStudio #VisualStudioCode 🔍 #RESTAPIs #ProblemSolving 🤔 #CommunicationSkills 💬
+#HTML #CSS #JavaScript #TypeScript #Angular #Node.js #RESTAPIs #VisualStudio #VisualStudioCode
+#ProblemSolving  #CommunicationSkills #AnalyticalThinking
 
 https://jongita.github.io/CV/
