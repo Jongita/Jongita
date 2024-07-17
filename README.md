@@ -9,8 +9,8 @@
 #HTML #CSS #JavaScript #TypeScript #Angular #Node.js #RESTAPIs #VisualStudio #VisualStudioCode
 #ProblemSolving  #CommunicationSkills #AnalyticalThinking
 
+## My CV
 [![CV](https://img.shields.io/badge/CV-Click%20Here-brightgreen)](https://jongita.github.io/CV/)
-https://jongita.github.io/CV/
 
 ### Find Me on CodePen
 [![CodePen](https://img.shields.io/badge/CodePen-@Jurgita-Jonaityt?style=flat&logo=codepen)](https://codepen.io/Jurgita-Jonaityt)
