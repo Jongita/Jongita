@@ -10,3 +10,5 @@
 #ProblemSolving  #CommunicationSkills #AnalyticalThinking
 
 https://jongita.github.io/CV/
+
+https://codepen.io/Jurgita-Jonaityt
