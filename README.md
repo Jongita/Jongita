@@ -12,7 +12,8 @@
 https://jongita.github.io/CV/
 
 ### Find Me on CodePen
-[![CodePen](https://img.shields.io/badge/CodePen-@Jurgita-Jonaityt-000000?style=flat&logo=codepen)](https://codepen.io/Jurgita-Jonaityt)
+[![CodePen](https://img.shields.io/badge/CodePen-@YourCodePenUsername-000000?style=flat&logo=codepen)](https://codepen.io/YourCodePenUsername)
+[![CodePen](https://img.shields.io/badge/CodePen-@Jurgita-Jonaityt?style=flat&logo=codepen)](https://codepen.io/Jurgita-Jonaityt)
 
 ### Find Me on CodeWars
 https://www.codewars.com/users/Jongita
