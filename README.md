@@ -20,5 +20,7 @@ I enjoy solving coding challenges on [Codewars](https://www.codewars.com/users/J
 - **Completed Katas:** 200+
 Check out my profile [here](https://www.codewars.com/users/Jongita).
 
+I am an avid problem solver on [Codewars](https://www.codewars.com/users/yourusername), where I practice my coding skills and tackle challenging problems.
+
 Feel free to explore my projects!
 
