@@ -11,6 +11,11 @@
 
 https://jongita.github.io/CV/
 
-https://codepen.io/Jurgita-Jonaityt
+### Find Me on CodePen
+[![CodePen](https://codepen.io/Jurgita-Jonaityt)
 
+### Find Me on CodeWars
 https://www.codewars.com/users/Jongita
+
+Feel free to explore my projects!
+
