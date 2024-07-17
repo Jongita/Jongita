@@ -12,3 +12,5 @@
 https://jongita.github.io/CV/
 
 https://codepen.io/Jurgita-Jonaityt
+
+https://www.codewars.com/users/Jongita
