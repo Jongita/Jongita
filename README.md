@@ -1,4 +1,4 @@
-## Hi, I'm Jurgita Jonaitytė 👋
+## 👋 Hi, I'm Jurgita Jonaitytė
 
 - 🌱 I’m currently learning front-end and back-end web development technologies
 -  🔭 I’m currently a participant of the WOMEN GO TECH program
