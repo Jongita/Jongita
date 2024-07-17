@@ -14,8 +14,11 @@ https://jongita.github.io/CV/
 ### Find Me on CodePen
 [![CodePen](https://img.shields.io/badge/CodePen-@Jurgita-Jonaityt?style=flat&logo=codepen)](https://codepen.io/Jurgita-Jonaityt)
 
-### Find Me on CodeWars
-https://www.codewars.com/users/Jongita
+## Codewars
+I enjoy solving coding challenges on [Codewars](https://www.codewars.com/users/Jongita). Here are some of my stats:
+- **Rank:** 5 kyu
+- **Completed Katas:** 200+
+Check out my profile [here](https://www.codewars.com/users/Jongita).
 
 Feel free to explore my projects!
 
