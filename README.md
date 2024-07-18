@@ -33,6 +33,8 @@ Feel free to explore my projects!
 
 - 🌱 I’m currently learning **react**
 
+- 🔭 I’m currently a participant/mentee of the **WOMEN GO TECH** program
+
 - 👯 I’m looking to collaborate on **on open-source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jongita](https://github.com/Jongita)
