@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jongita&label=Profile%20views&color=0e75b6&style=flat" alt="jongita" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jongita" alt="jongita" /></a> </p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jongita)](https://github.com/jongita/github-profile-trophy)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=jongita&title=Repositories,Commits)](https://github.com/jongita/github-profile-trophy)
 
 - 🔭 I’m currently working on [portfolio project powered by SEB Bank](https://www.womengotech.com/portfolio-project-powered-by-seb-bank-frontend/)
