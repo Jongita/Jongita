@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jongita)](https://github.com/jongita/github-profile-trophy)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jongita=Repositories)](https://github.com/jongita/github-profile-trophy)
 
 - 🔭 I’m currently working on [portfolio project powered by SEB Bank](https://www.womengotech.com/portfolio-project-powered-by-seb-bank-frontend/)
 
