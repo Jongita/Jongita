@@ -23,7 +23,7 @@ I enjoy solving coding challenges on [Codewars](https://www.codewars.com/users/J
 Feel free to explore my projects!
 
 <h1 align="center">Hi 👋, I'm Jurgita Jonaitytė</h1>
-<h3 align="center">I’m currently learning front-end and back-end web development technologiesrontend developer from India</h3>
+<h3 align="center">I’m currently learning front-end and back-end web development technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jongita&label=Profile%20views&color=0e75b6&style=flat" alt="jongita" /> </p>
 
@@ -37,13 +37,13 @@ Feel free to explore my projects!
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jongita](https://github.com/Jongita)
 
-- 💬 Ask me about **angular, html,**
+- 💬 Ask me about **angular, html, css**
 
 - 📫 How to reach me **jurgitajonaityte@gmail.com**
 
-- 📄 Know about my experiences [https://jongita.github.io/CV/](https://jongita.github.io/CV/)
+- 📄 Know about my experiences [![CV](https://img.shields.io/badge/CV-Click%20Here-brightgreen)](https://jongita.github.io/CV/)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact ** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
