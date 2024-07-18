@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jongita" alt="jongita" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=jongita](https://github-profile-trophy.vercel.app/?username=jongita=Repositories,Commits,PullRequest)" alt="jongita" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jongita)](https://github.com/jongita/github-profile-trophy)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Repositories,Commits,PullRequest
 
-https://github-profile-trophy.vercel.app/?username=jongita-ma&title=Repositories
 
 - 🔭 I’m currently working on [portfolio project powered by SEB Bank](https://www.womengotech.com/portfolio-project-powered-by-seb-bank-frontend/)
 
