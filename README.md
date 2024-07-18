@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jongita](https://github.com/Jongita)
 
-- 💬 Ask me about **angular, html, css**
+- 💬 Ask me about **any languages and tools mentioned below**
 
 - 📫 How to reach me **jurgitajonaityte@gmail.com**
 
