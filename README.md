@@ -45,9 +45,9 @@ Feel free to explore my projects!
 
 - ⚡ Fun fact ** **
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find Me on CodePen:</h3>
 <p align="left">
-<a href="https://codepen.io/jurgita-jonaityt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jurgita-jonaityt" height="30" width="40" /></a>
+[![CodePen](https://img.shields.io/badge/CodePen-@Jurgita-Jonaityt?style=flat&logo=codepen)](https://codepen.io/Jurgita-Jonaityt)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
