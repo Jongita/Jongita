@@ -21,8 +21,6 @@
 
 - 📄 Know about my experiences [![CV](https://img.shields.io/badge/CV-Click%20Here-brightgreen)](https://jongita.github.io/CV/)
 
-- ⚡ Fun fact ** **
-
 <h3 align="left">Find Me on CodePen:</h3>
 
 [![CodePen](https://img.shields.io/badge/CodePen-@Jurgita-Jonaityt?style=flat&logo=codepen)](https://codepen.io/Jurgita-Jonaityt)
