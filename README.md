@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jurgita Jonaitytė</h1>
 <h3 align="center">I’m currently learning front-end and back-end web development technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jongita&label=Profile%20views&color=0e75b6&style=flat" alt="jongita" /> </p>
+// <p align="left"> <img src="https://komarev.com/ghpvc/?username=jongita&label=Profile%20views&color=0e75b6&style=flat" alt="jongita" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jongita&title=Repositories,Commits)](https://github.com/jongita/github-profile-trophy)
 
