@@ -28,6 +28,8 @@
   </a>
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed32aadd-7ff4-4947-9be1-73ca9fe8158e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h3 align="left">Find Me on CodePen:</h3>
 
 [![CodePen](https://img.shields.io/badge/CodePen-@Jurgita-Jonaityt?style=flat&logo=codepen)](https://codepen.io/Jurgita-Jonaityt)
