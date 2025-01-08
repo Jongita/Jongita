@@ -23,9 +23,9 @@
 
 <h3 align="left">AWS Certified Cloud Practitioner:</h3>
 <p align="left">
-
-    <img src="https://github.com/Jongita/Badges/blob/main/aws-certified-cloud-practitioner%20(2).png" alt="AWS Cloud Practitioner Badge" />
-
+  <a>
+    <img src="https://images.credly.com/size/110x110/images/68435420-1d5b-449b-98ef-499a8c77f3da/image.png" alt="AWS Cloud Practitioner Badge" />
+  </a>
 </p>
 
 <h3 align="left">Find Me on CodePen:</h3>
