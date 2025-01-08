@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [portfolio project powered by SEB Bank](https://www.womengotech.com/portfolio-project-powered-by-seb-bank-frontend/)
 
-- 🌱 I’m currently learning **testing technologies**
+- 🌱 I’m currently learning **Azure Fundamentals**
 
 - 🔭 I’m currently a participant/mentee of the **WOMEN GO TECH** program
 
