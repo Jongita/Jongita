@@ -24,7 +24,7 @@
 <h3 align="left">AWS Certified Cloud Practitioner:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/your-badge-id" target="_blank">
-    <img src="https://github.com/Jongita/Badges/blob/main/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner Badge" />
+    <img src="https://github.com/Jongita/Badges/blob/main/aws-certified-cloud-practitioner%20(1).png" alt="AWS Cloud Practitioner Badge" />
   </a>
 </p>
 
