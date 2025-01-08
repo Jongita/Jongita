@@ -21,6 +21,13 @@
 
 - 📄 Know about my experiences [![CV](https://img.shields.io/badge/CV-Click%20Here-brightgreen)](https://jongita.github.io/CV/)
 
+<h3 align="left">AWS Certified Cloud Practitioner:</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/your-badge-id" target="_blank">
+    <img src="[https://images.credly.com/size/110x110/images/68435420-1d5b-449b-98ef-499a8c77f3da/image.png](https://www.credly.com/badges/ed32aadd-7ff4-4947-9be1-73ca9fe8158e/public_url)" alt="AWS Cloud Practitioner Badge" />
+  </a>
+</p>
+
 <h3 align="left">Find Me on CodePen:</h3>
 
 [![CodePen](https://img.shields.io/badge/CodePen-@Jurgita-Jonaityt?style=flat&logo=codepen)](https://codepen.io/Jurgita-Jonaityt)
