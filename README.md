@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jongita&label=Profile%20views&color=0e75b6&style=flat" alt="jongita" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jongita&title=Repositories,Commits)](https://github.com/jongita/github-profile-trophy) (https://www.credly.com/badges/ed32aadd-7ff4-4947-9be1-73ca9fe8158e/public_url)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jongita&title=Repositories,Commits)](https://github.com/jongita/github-profile-trophy)
 
 - 🔭 I’m currently working on [portfolio project powered by SEB Bank](https://www.womengotech.com/portfolio-project-powered-by-seb-bank-frontend/)
 
