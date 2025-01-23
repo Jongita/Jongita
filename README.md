@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jurgitajonaityte@gmail.com**
 
-- 📄 Know about my experiences [![CV](https://img.shields.io/badge/CV-Click%20Here-brightgreen)]((https://github.com/Jongita/CV-new/blob/main/CV_Jurgita_Jonaityte.pdf))
+- 📄 Know about my experiences [![CV](https://img.shields.io/badge/CV-Click%20Here-brightgreen)](https://github.com/Jongita/CV-new/blob/main/CV_Jurgita_Jonaityte.pdf)
 
 <h3 align="left">AWS Certified Cloud Practitioner:</h3>
 <p align="left">
