@@ -23,6 +23,7 @@
 <p align="left">
   <a>
     <img src="https://github.com/Jongita/Badges/blob/main/aws-certified-cloud-practitioner%20(2).png" alt="AWS Cloud Practitioner Badge" />
+    <img src="https://github.com/Jongita/Certificates/blob/main/Azure.jpg" alt="Azure Badge" />
   </a>
 </p>
 
