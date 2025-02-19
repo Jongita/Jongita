@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a participant/mentee of the **WOMEN GO TECH** program
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to collaborate **on open-source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jongita](https://github.com/Jongita)
 
